@@ -6,7 +6,7 @@
 /*   By: eelhafia <eelhafia@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/13 21:42:58 by eelhafia          #+#    #+#             */
-/*   Updated: 2022/11/16 01:26:31 by eelhafia         ###   ########.fr       */
+/*   Updated: 2023/04/27 21:43:03 by eelhafia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,7 +39,7 @@ int	check(char form, va_list args)
 	return (count);
 }
 
-int	ft_printf(const char *form, ...)
+int	_printf(const char *form, ...)
 {
 	int		i;
 	int		a;
