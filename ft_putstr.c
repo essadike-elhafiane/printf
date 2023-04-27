@@ -55,7 +55,7 @@ int	hixad(unsigned int n, char c)
 	return (lenhixa(n));
 }
 
-int	hixap(unsigned long long n)
+int	hixap(unsigned long n)
 {
 	char	*s;
 

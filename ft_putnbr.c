@@ -21,7 +21,7 @@ int	llen(long n)
 	return (j);
 }
 
-int	lenhixa(unsigned long long n)
+int	lenhixa(unsigned long n)
 {
 	int	j;
 
